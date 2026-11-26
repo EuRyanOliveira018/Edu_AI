@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EDU.AI — plataforma educacional com IA
 
 Plataforma SaaS para escolas com quatro perfis na instituição (gestor, secretaria, professor e aluno) e um painel
@@ -204,3 +205,6 @@ web/
 ```
 
 Documentação interativa da API: http://localhost:8000/docs
+=======
+# Edu_AI
+>>>>>>> 519c171cb9fde1ccee1b5cf284c927f44d96a19d
